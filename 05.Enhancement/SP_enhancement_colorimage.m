@@ -2,7 +2,7 @@
 close all;clear all;clc
 % read in an indexed RGB image: |autumn.tif|.
 
-scene = imread('Demo_3_1.jpg');
+scene = imread('Demo_3_2.jpg');
 figure,
 imshow(scene)
 
