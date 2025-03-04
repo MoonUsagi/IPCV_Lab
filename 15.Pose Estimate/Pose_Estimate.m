@@ -1,0 +1,1 @@
+openExample('deeplearning_shared/EstimateBodyPoseUsingDeepLearningExample')

@@ -1,0 +1,1 @@
+openExample('fusion_vision/DeepSORTExample')
